@@ -49,17 +49,7 @@ Tools Used:
 Libraries Used:
 1. Panda
 2. Numpy
+3. sklearn
 
-Steps to Excecute:
-1.
-2.
-3.
-4.
-5.
-
-References:
-1.
-2.
-3.
 
 Thank You!
