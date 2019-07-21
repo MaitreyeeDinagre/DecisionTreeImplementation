@@ -51,5 +51,9 @@ Libraries Used:
 2. Numpy
 3. sklearn
 
+Output:
+The program will show the Accuracy of decision-tree-regression with 4 level, Accuracy of decision-tree-regression with 5 level and linear regression test score.
+
+And it will also show the graphical representation. 
 
 Thank You!
